@@ -7,7 +7,7 @@
       "test": "npx cucumber-js --publish-quiet test/"
     },
     "dependencies": {
-      "@cucumber/cucumber": "latest",
+      "@cucumber/cucumber": "10.3.2",
       "apickli": "latest",
       "apigeelint": "latest"
     }
